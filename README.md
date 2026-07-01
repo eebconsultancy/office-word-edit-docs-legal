@@ -1,6 +1,6 @@
-# Office Word: Edit Docs – Legal Pages
+# Docs & PDF Editor – Legal Pages
 
-This repository hosts the public legal pages for the Office Word: Edit Docs app.
+This repository hosts the public legal pages for the Docs & PDF Editor app.
 
 ## Pages
 - Privacy Policy
